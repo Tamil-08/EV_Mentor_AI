@@ -1,4 +1,4 @@
-# Mentor AI — AI Coding Assistant
+#  EV Mentor AI — AI Coding Assistant
 
 A chat-based coding mentor powered by the Gemini API. Explains concepts,
 reviews doubts, and walks through bugs step by step instead of just
@@ -13,7 +13,7 @@ mentor-ai/
 └── frontend/
     └── index.html    # Single-file chat UI (no build step)
 ```
-
+![description](assets/EV.png)
 ## 1. Get a Gemini API key
 
 Go to https://aistudio.google.com/apikey and create a free API key.
