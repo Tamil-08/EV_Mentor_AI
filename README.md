@@ -1,5 +1,5 @@
 #  EV Mentor AI — AI Coding Assistant
-
+EV — (Everyday Vidya)
 A chat-based coding mentor powered by the Gemini API. Explains concepts,
 reviews doubts, and walks through bugs step by step instead of just
 dumping fixed code.
